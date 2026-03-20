@@ -1,0 +1,44 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+
+  <!-- subtle grid lines -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="225" y1="0" x2="225" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="675" y1="0" x2="675" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+
+  <!-- robot icon left -->
+  <text x="72" y="105" font-size="52" text-anchor="middle" font-family="serif">🤖</text>
+
+  <!-- name -->
+  <text x="450" y="82" font-size="42" font-weight="700" text-anchor="middle"
+    font-family="'Segoe UI', sans-serif" fill="#ffffff" letter-spacing="2">Tarun Kumar</text>
+
+  <!-- accent line -->
+  <rect x="200" y="96" width="500" height="2" fill="url(#line)" rx="1"/>
+
+  <!-- subtitle -->
+  <text x="450" y="126" font-size="16" text-anchor="middle"
+    font-family="'Fira Code', 'Courier New', monospace" fill="#a78bfa" letter-spacing="1">
+    Robotics &amp; Automation Engineer · Mangalore
+  </text>
+
+  <!-- drone icon right -->
+  <text x="828" y="105" font-size="52" text-anchor="middle" font-family="serif">🛸</text>
+</svg>
