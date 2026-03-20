@@ -12,7 +12,7 @@
 B.E. Robotics & Automation (3rd year) — building autonomous systems that actually move.
 Ex-Research Intern @ NIT Karnataka. Open source contributor to `ros-navigation`.
 
-🔗 [Portfolio](https://my-portfolio--tarunkotian10.replit.app) · [LinkedIn](https://linkedin.com/in/tarun-kumar-885542282) · [Email](mailto:tarunkotian10@gmail.com)
+🔗 [Portfolio](https://my-portfolio-eight-jade-1btxuucaik.vercel.app/) · [LinkedIn](https://linkedin.com/in/tarun-kumar-885542282) · [Email](mailto:tarunkotian10@gmail.com)
 
 ---
 
